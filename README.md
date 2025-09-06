@@ -21,6 +21,7 @@ orbital-simulator/
 
 
 ## 📊 Example Output
+<img width="592" height="560" alt="Screenshot 2025-09-06 at 11 54 10 AM" src="https://github.com/user-attachments/assets/9dc12959-ff1b-4e49-b941-78be9c21123c" />
 
 
 ## 🔧 Technologies
